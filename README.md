@@ -5,3 +5,5 @@ Tecnologias Utilizadas
 -CSS
 -IMG (PEXELS)
 -Github
+
+## Salvando modificações no Git
