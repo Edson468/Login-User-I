@@ -7,3 +7,4 @@ Tecnologias Utilizadas
 -Github
 
 ## Salvando modificações no Git
+* comando git push
